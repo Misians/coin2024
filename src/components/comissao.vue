@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import ComissaoCard from "@/components/ComissaoCard.vue";
+import ComissaoCard from "../components/comissaoCard.vue";
 
 export default {
   components: {
