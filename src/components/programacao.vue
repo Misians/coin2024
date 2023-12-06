@@ -16,6 +16,7 @@
   <li><strong>18h</strong> - Atividade cultural</li>
   <li><strong>19h</strong> – Coquetel</li>
 </ul>
+<br>
     <h2>23 de Maio de 2024</h2>
     <ul>
   <li><strong>8h</strong> - Oficinas, Minicurso, Workshops, Exposições e Espaços audiovisuais.</li>
@@ -36,6 +37,8 @@
   <li><strong>14:30h</strong> – Palestra – Prof. Carlos Sérgio – Direito/UERN</li>
   <li><strong>16:30h</strong> - Comunicações orais e painéis</li>
 </ul>
+<br>
+
 <h2>24 de Maio de 2024</h2>
 <ul>
   <li><strong>8h</strong> - Oficinas, Minicurso, Workshops, Exposições e Espaços audiovisuais.</li>
@@ -51,6 +54,8 @@
   <p>Mediação: Profa. Maria José</p>
   <li><strong>16:30h</strong> - Comunicações orais e painéis</li>
 </ul>
+<br>
+
 <h2>25 de Maio de 2024</h2>
 
 <ul>
